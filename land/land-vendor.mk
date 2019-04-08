@@ -1039,7 +1039,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/land/proprietary/lib/lib-imsvideocodec.so:system/lib/lib-imsvideocodec.so \
     vendor/xiaomi/land/proprietary/lib/lib-imsvtextutils.so:system/lib/lib-imsvtextutils.so \
     vendor/xiaomi/land/proprietary/lib/lib-imsvtutils.so:system/lib/lib-imsvtutils.so \
-    vendor/xiaomi/landproprietary/lib/libOmxMux.so:system/lib/libOmxMux.so \
+    vendor/xiaomi/land/proprietary/lib/libOmxMux.so:system/lib/libOmxMux.so \
     vendor/xiaomi/land/proprietary/lib/libFileMux.so:system/lib/libFileMux.so \
     vendor/xiaomi/land/proprietary/lib/libdiag_system.so:system/lib/libdiag_system.so \
     vendor/xiaomi/land/proprietary/lib/libimscamera_jni.so:system/lib/libimscamera_jni.so \
